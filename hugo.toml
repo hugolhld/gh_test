@@ -1,4 +1,6 @@
 baseURL = 'https://www.hugolhld.github.io/gh_test/'
-languageCode = 'en-US'
+languageCode = 'fr-FR'
 title = 'GitHub - Hugo Course'
 theme = 'ananke'
+
+DefaultContentLanguage = "fr"

@@ -7,3 +7,12 @@ draft: false
 ## Je crée mon propre post
 
 Ceci est le contenu
+
+**Avec un liste:**
+- first
+- two
+- three
+- ..
+  - test
+
+et un petit url [hello](https://www.google.fr)

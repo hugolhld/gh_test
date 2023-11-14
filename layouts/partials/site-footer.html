@@ -1,7 +1,10 @@
 <footer>
-    <div class="container">
-    <p class="footer-text">© 2023 Mon Blog sur le Développement Web</p>
-    <p>Suivez-moi sur <a href="https://twitter.com/moncompte">Twitter</a> et <a
-  href="https://github.com/moncompte">GitHub</a>.</p>
+    <div class="container bg-light-gray flex items-center flex-column shadow-1 pv3">
+        <h3>
+            {{ .Title | default .Site.Title }}
+        </h3>
+        <p class="footer-text">© 2023 Mon Blog sur le Développement Web</p>
+        <p>Suivez-moi sur <a href="https://twitter.com/hugolhld">Twitter</a> et <a
+    href="https://github.com/hugolhld">GitHub</a>.</p>
     </div>
   </footer>
