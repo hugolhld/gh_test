@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GitHub - Hugo Course</title>
-    <link>https://example.org/</link>
-    <description>Recent content on GitHub - Hugo Course</description>
+    <title>Posts on GitHub - Hugo Course</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on GitHub - Hugo Course</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://example.org/posts/my-first-post/</link>

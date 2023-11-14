@@ -5,7 +5,7 @@
     <link>https://example.org/tags/</link>
     <description>Recent content in Tags on GitHub - Hugo Course</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
+    <language>en-EN</language>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
