@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub - Hugo Course</title>
-    <link>https:/www.hugolhld.github.io/</link>
+    <link>https://www.hugolhld.github.io/</link>
     <description>Recent content on GitHub - Hugo Course</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate>
-    <atom:link href="https:/www.hugolhld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.hugolhld.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https:/www.hugolhld.github.io/posts/my-first-post/</link>
+      <link>https://www.hugolhld.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
-      <guid>https:/www.hugolhld.github.io/posts/my-first-post/</guid>
+      <guid>https://www.hugolhld.github.io/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
     </item>
