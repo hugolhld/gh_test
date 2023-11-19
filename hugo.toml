@@ -3,14 +3,17 @@ languageCode = 'fr-FR'
 title = 'GitHub - Hugo Course'
 theme = 'ananke'
 staticDir = ['static']
+sectionPagesMenu = 'main'
 
 
 DefaultContentLanguage = "fr"
 
 [params]
-    descirption = 'Ouhou'
-    background_color_class = 'bg-blue'
-    featured_image = '/gh_test/img/bg.jpeg'
-    site_logo = '/gh_test/img/bg.jpeg'
-    text_color = 'green'
+    description = 'Ouhou'
+    site_logo = 'Hugo Blog'
+    text_color = 'blue'
     date_format = "2. January 2006"
+
+[[params.ananke_socials]]
+    name = "github"
+    url = "https://www.github.com/hugolhld"
