@@ -1,10 +1,13 @@
-<footer>
-    <div class="container bg-light-gray flex items-center flex-column shadow-1 pv3">
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} test">
+    <div class="container flex items-center flex-column shadow-1 pv3">
         <h3>
-            {{ .Title | default .Site.Title }}
+            {{ default .Site.Title }}
         </h3>
         <p class="footer-text">© 2023 Mon Blog sur le Développement Web</p>
-        <p>Suivez-moi sur <a href="https://twitter.com/hugolhld">Twitter</a> et <a
-    href="https://github.com/hugolhld">GitHub</a>.</p>
+        <div class="flex items-center">
+            <p class="footer-text ph2">Suivez-moi sur: </p>
+            {{ partialCached "social-follow.html" . }}
+        </div>
+
     </div>
   </footer>

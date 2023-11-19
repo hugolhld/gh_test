@@ -1,6 +1,6 @@
 baseURL = 'https://www.hugolhld.github.io/gh_test/'
 languageCode = 'fr-FR'
-title = 'GitHub - Hugo Course'
+title = 'HL - Hugo.io'
 theme = 'ananke'
 staticDir = ['static']
 sectionPagesMenu = 'main'
@@ -11,6 +11,7 @@ DefaultContentLanguage = "fr"
 [params]
     description = 'Ouhou'
     site_logo = 'Hugo Blog'
+    background_color_class = 'blue'
     text_color = 'blue'
     date_format = "2. January 2006"
 
