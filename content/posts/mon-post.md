@@ -2,6 +2,7 @@
 title: 'Mon premier post'
 date: 2023-11-14T14:44:39+01:00
 draft: false
+author: 'Hugo Lhernoud'
 ---
 
 # Comprendre le markdown - H1
@@ -23,3 +24,6 @@ draft: false
 et un petit url [hello](https://www.google.fr)
 
 Ceci est le contenu
+
+sans oublier l'ajout d'une image: 
+![animal](/gh_test/img/bg.jpeg)
