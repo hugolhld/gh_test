@@ -1,7 +1,9 @@
 +++
 menu = ['main', 'footer']
-title = 'About'
+title = 'A propos'
 +++
 
-## Contact
+## Qui suis-je ?
+
+Je suis Hugo Lhernould, élève de la MT4 CTO & Tech Lead
 
