@@ -1,6 +1,6 @@
 +++
 menu = ['main', 'footer']
-title = 'Contact'
+title = 'About'
 +++
 
 ## Contact
