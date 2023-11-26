@@ -10,8 +10,8 @@ DefaultContentLanguage = "fr"
 
 [params]
     description = 'Ouhou'
-    site_logo = 'Hugo Blog'
-    background_color_class = 'blue'
+    site_logo = '/gh_test/img/fav2.png'
+    background_color_class = 'bg-blue'
     text_color = 'blue'
     date_format = "2. January 2006"
 
